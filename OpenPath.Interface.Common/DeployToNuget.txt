@@ -1,0 +1,10 @@
+﻿
+UPDATE THE VERSION OF THE PACKAGE
+Update the version in the Project Properties under Package.
+
+PACKAGE THE PROJECT
+dotnet pack --configuration Release
+
+Publish the package using the key you specified in the nuget.config file.
+dotnet nuget push "C:\src\OpenPath.Interface.Common\OpenPath.Interface.Common\bin\Release\OpenPath.Interface.Common.2.0.0.nupkg" --source "github"
+
