@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OP-CommonInterface</name>
+    </assembly>
+    <members>
+        <member name="T:OpenPath.Interface.Common.ISystemLogger">
+            <summary>
+            An interface for creating and reading system logs.
+            </summary>
+        </member>
+    </members>
+</doc>

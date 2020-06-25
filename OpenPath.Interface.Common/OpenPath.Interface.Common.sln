@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenPath.Interface.Common", "OpenPath.Interface.Common\OpenPath.Interface.Common.csproj", "{D8740AE0-A37E-4170-A952-1E892D945918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenPath.Interface.Common.Test", "OpenPath.Interface.Common.Test\OpenPath.Interface.Common.Test.csproj", "{817A7483-CEBC-486F-A9F9-2B9B9C9114F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8740AE0-A37E-4170-A952-1E892D945918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8740AE0-A37E-4170-A952-1E892D945918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8740AE0-A37E-4170-A952-1E892D945918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8740AE0-A37E-4170-A952-1E892D945918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817A7483-CEBC-486F-A9F9-2B9B9C9114F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817A7483-CEBC-486F-A9F9-2B9B9C9114F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817A7483-CEBC-486F-A9F9-2B9B9C9114F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817A7483-CEBC-486F-A9F9-2B9B9C9114F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878D3016-D3E9-4774-862D-6C0DF554D650}
+	EndGlobalSection
+EndGlobal
